@@ -5,4 +5,4 @@ Spiral Stair Maker for Maya 2017 (with a dynamic PyQt5 UI)
 
 View it in action here:
 
-[SpiralQtDemo](https://www.youtube.com/watch?v=ZtxLwbvxfzo)
+[SpiralQtDemo](https://www.youtube.com/watch?v=KOg1Vb3it74)
