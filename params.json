@@ -1,6 +1,6 @@
 {
   "name": "Spiralqt",
   "tagline": "Spiral Stair Maker for Maya 2017 (with a PyQt5 UI)",
-  "body": "# spiralQT\r\nSpiral Stair Maker for Maya 2017 (with a dynamic PyQt5 UI)\r\n\r\n<img width=\"401\" alt=\"screen shot 2016-12-05 at 10 39 31 pm\" src=\"https://cloud.githubusercontent.com/assets/5842203/20912738/d931faa8-bb3f-11e6-90de-01de0f4c2388.png\">\r\n\r\nView it in action here:\r\n\r\n[SpiralQtDemo](https://www.youtube.com/watch?v=ZtxLwbvxfzo)\r\n",
+  "body": "# spiralQT\r\nSpiral Stair Maker for Maya 2017 (with a dynamic PyQt5 UI)\r\n\r\n<img width=\"401\" alt=\"screen shot 2016-12-05 at 10 39 31 pm\" src=\"https://cloud.githubusercontent.com/assets/5842203/20912738/d931faa8-bb3f-11e6-90de-01de0f4c2388.png\">\r\n\r\nView it in action here:\r\n\r\n[SpiralQtDemo](https://www.youtube.com/watch?v=KOg1Vb3it74)\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
